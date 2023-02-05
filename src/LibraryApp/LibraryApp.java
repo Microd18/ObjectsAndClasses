@@ -10,5 +10,8 @@ public class LibraryApp {
 
         captainSDaughter.setPublicationYear(2044);
 
+        System.out.println(captainSDaughter);
+        System.out.println(warAndPeace);
+
     }
 }
